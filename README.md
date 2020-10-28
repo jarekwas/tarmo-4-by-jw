@@ -14,3 +14,6 @@ Main changes:
 * rounding of sharp corners
 * and a few smaller ones.
 
+![alt text](https://raw.githubusercontent.com/greetingsFromPoland/tarmo-4-by-jw/main/Renders/Screenshot%202020-10-28%20at%2021.18.59.png "Render")
+
+
