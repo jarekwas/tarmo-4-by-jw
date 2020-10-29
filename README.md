@@ -2,7 +2,6 @@
 
 My customizations and modifications for the project https://www.thingiverse.com/thing:4178426.
 
-
 Main changes:
 * adding inserts to avoid screwing the screws into the plastic
 * strengthening of key element
